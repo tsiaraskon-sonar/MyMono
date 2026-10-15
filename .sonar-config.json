@@ -1,0 +1,24 @@
+{
+  "projects": [
+    {
+      "projectKey": "kt-org_mono-python",
+      "path": "python-hello",
+      "region": "eu",
+      "organization": "kt-org"
+    },
+    {
+      "projectKey": "kt-org_mono-xss",
+      "path": "Simple-XSS-no-git",
+      "region": "eu",
+      "organization": "kt-org"
+    }
+  ],
+  "project": [
+    {
+      "projectKey": "kt-org_mono-python",
+      "path": "python-hello",
+      "region": "eu",
+      "organization": "kt-org"
+    }
+  ]
+}
